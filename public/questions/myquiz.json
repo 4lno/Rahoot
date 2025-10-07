@@ -1,1 +1,33 @@
+[
+  {
+    "id": 1,
+    "question": "Việt Nam có bao nhiêu tỉnh, thành phố trực thuộc trung ương?",
+    "answers": [
+      { "text": "60", "correct": false },
+      { "text": "61", "correct": false },
+      { "text": "63", "correct": true },
+      { "text": "64", "correct": false }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Đâu là thủ đô của Việt Nam?",
+    "answers": [
+      { "text": "TP. Hồ Chí Minh", "correct": false },
+      { "text": "Đà Nẵng", "correct": false },
+      { "text": "Hà Nội", "correct": true },
+      { "text": "Huế", "correct": false }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Biển Đông giáp với đại dương nào?",
+    "answers": [
+      { "text": "Thái Bình Dương", "correct": true },
+      { "text": "Ấn Độ Dương", "correct": false },
+      { "text": "Đại Tây Dương", "correct": false },
+      { "text": "Bắc Băng Dương", "correct": false }
+    ]
+  }
+]
 
