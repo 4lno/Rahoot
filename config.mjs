@@ -1,5 +1,8 @@
 export const WEBSOCKET_PUBLIC_URL = "wss://rahoot-ws.onrender.com/"
-export const WEBSOCKET_SERVER_PORT = 5505
+const PORT = process.env.PORT || 10000;
+server.listen(PORT, () => {
+  console.log("Server running on port", PORT);
+});
 
 const QUIZZ_CONFIG = {
   password: process.env.MANAGER_PASSWORD || "MEO",
