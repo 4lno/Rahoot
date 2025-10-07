@@ -1,4 +1,4 @@
-export const WEBSOCKET_PUBLIC_URL = "wss://rahoot-ws-4gel.onrender.com/"
+export const WEBSOCKET_PUBLIC_URL = "https://rahoot-1.onrender.com/"
 export const WEBSOCKET_SERVER_PORT = 5505
 
 const QUIZZ_CONFIG = {
